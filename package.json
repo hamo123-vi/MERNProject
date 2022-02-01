@@ -1,0 +1,19 @@
+{
+  "name": "mernproject",
+  "version": "1.0.0",
+  "description": "MERN project created by Amil Valjevac",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hamo123-vi/MERNProject.git"
+  },
+  "author": "Amil Valjevac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/hamo123-vi/MERNProject/issues"
+  },
+  "homepage": "https://github.com/hamo123-vi/MERNProject#readme"
+}

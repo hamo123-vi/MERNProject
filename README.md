@@ -1,3 +1,5 @@
 # **MERNProject - Back-end**
 
-## Rename default.default.json to default.json and paste Your MongoDB URI
+## Rename config.env.env to config.env and paste Your MongoDB URI
+
+### Application made following tutorial from: https://blog.logrocket.com/mern-stack-tutorial/
